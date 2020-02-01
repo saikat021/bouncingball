@@ -1,12 +1,12 @@
 var x=0;
 var speed=3;
 function setup() {
-  createCanvas(600, 400);
+  createCanvas(1800, 1800);
 }
 
 function draw() {
  
-  background(0);
+  background(255,120,0);
   stroke(255);
   strokeWeight(4);
   noFill();
